@@ -1,0 +1,31 @@
+Decay B_c+ 
+#0.003200000 D_s-    pi+                                     PHSP; #[Reconstructed PDG2011]
+1.0000 D+    anti-D0                                   PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+Decay D+ 
+1.0000 K-      pi+     pi+                             D_DALITZ; #[Reconstructed PDG2011]
+Enddecay
+
+Decay anti-D0  
+1.0000 K+      pi-                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+Decay B_c-
+#0.003200000 D_s-    pi+                                     PHSP; #[Reconstructed PDG2011]
+1.0000 D-    D0                                   PHSP; #[Reconstructed PDG2011]
+Enddecay
+#
+
+Decay D-
+1.0000 K+      pi-     pi-                             D_DALITZ; #[Reconstructed PDG2011]
+Enddecay
+
+Decay D0  
+1.0000 K-      pi+                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+End

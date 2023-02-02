@@ -1,0 +1,55 @@
+Decay B_c+
+#0.003200000 D_s-    pi+                                     PHSP; #[Reconstructed PDG2011]
+1.0000    D*+        anti-D*0              SVV_HELAMP 1.0 0.0 1.0 0.0 1.0 0.0;
+Enddecay
+
+
+
+Decay anti-D*0  
+1.0000 anti-D0      pi0                                     VSS; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+
+Decay anti-D0  
+1.0000 K+      pi-                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+Decay D*+
+1.0000    D0  pi+                        VSS;
+Enddecay
+
+
+Decay D0  
+1.0000 K-      pi+                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+
+
+Decay B_c-
+#0.003200000 D_s-    pi+                                     PHSP; #[Reconstructed PDG2011]
+1.0000    D*-        D*0              SVV_HELAMP 1.0 0.0 1.0 0.0 1.0 0.0;
+Enddecay
+
+
+Decay D*0  
+1.0000 D0      pi0                                     VSS; #[Reconstructed PDG2011]
+Enddecay
+
+
+Decay D*-
+1.0000    anti-D0  pi-                        VSS;
+Enddecay
+
+
+
+
+
+
+
+
+End

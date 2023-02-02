@@ -1,0 +1,5 @@
+Decay J/psi
+1.00000 rho0    pi0                                     PARTWAVE 0.0 0.0 1.0 0.0 0.0 0.0; #[Reconstructed PDG2011]
+Enddecay
+
+End
